@@ -2,7 +2,7 @@
 title: "Basic Plots"
 author: "Kailey Rishovd"
 date: 2019-09-19
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
